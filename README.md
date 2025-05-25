@@ -1,8 +1,13 @@
+<!-- /qompassai/wasm/README.md -->
+<!-- ---------------------------- -->
+<!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
+
 <h2> Web Assembly (aka "Wasm")</h2>
 
 <h3> Qompass AI on wasm </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-wasm)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/wasm/total?style=flat-square)
   <a href="https://webassembly.org/">
   <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" alt="WebAssembly">
 </a>
