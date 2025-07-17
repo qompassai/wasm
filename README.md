@@ -193,7 +193,6 @@ Where:
 </details>
 
 
-
 <details id="Dual-License Notice">
   <summary><strong>What a Dual-License Means</strong></summary>
 
